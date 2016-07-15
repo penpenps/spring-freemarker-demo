@@ -1,0 +1,354 @@
+{
+  "restaurant":[
+    {
+      "name_en": "Haiyi Seafood Restaurant",
+      "name_cn": "海逸海鲜酒家",
+      "address_en": "Binjiang Ave",
+      "address_cn": "滨江大道",
+      "lat": "31.242569",
+      "lng": "121.502207",
+      "comments": ["haochi", "henhaochi"]
+    },
+    {
+      "name_en": "Paulaner Brauhaus Shanghai At Binjiang Branch",
+      "name_cn": "宝莱纳餐厅滨江店",
+      "address_en": "Binjiang Ave",
+      "address_cn": "滨江大道滨江风光亭",
+      "lat": "31.234125",
+      "lng": "121.498602",
+      "comments": ["haochi", "henhaochi"]
+    },
+    {
+      "name_cn": "老碗(陆家嘴软件园店)",
+      "address_cn": "浦东新区峨山路98弄陆家嘴软件园内(近塘桥公园)",
+      "comments": ["Not bad"],
+      "lng": "121.533213",
+      "name_en": "LaoWan",
+      "address_en": "Eshan Road 98 Lujiazui Software Park",
+      "lat": "31.226209"
+    },
+    {
+      "name_cn": "小杨生煎",
+      "address_cn": "浦电路357号",
+      "comments": ["XiaoYangShengJian is also one of its kind. a plate of Sheng Jian Bao to go along with a bowl og Gong Wan Tang. Heaven on Earth."],
+      "lng": "121.537222",
+      "name_en": "XiaoYang ShengJian",
+      "address_en": "No.357 pudian road",
+      "lat": "31.223338"
+    },
+    {
+      "name_cn": "耶里夏丽新疆餐厅",
+      "address_cn": "上海浦东新区东方路918号",
+      "comments": ["great meat platters, kebabs and meat dishes in general. The hummus is pretty decent. I go to this restaurant often and plan to keep it that way!"],
+      "lng": "121.534077",
+      "name_en": "Yershari",
+      "address_en": "No.918 Dongfang Road",
+      "lat": "31.228836"
+    },
+    {
+      "name_cn": "绣丽餐厅(八佰伴米岛店)",
+      "address_cn": "浦东南路1271-1289号米岛美食中心第四层",
+      "comments": ["All dishes are not so spicy. We can enjoy Sichuan style. Vegetable, chicken, pork, bean guard... every food is OK. The staff is very kind. It is only bad point that our booking was canceled when we arrived 3 minutes delayed. Usually, it is waited for 15 minutes."],
+      "lng": "121.523674",
+      "name_en": "Xiuli",
+      "address_en": "1271-1289, Pudong South Road,",
+      "lat": "31.232055"
+    },
+    {
+      "name_cn": "Kathleens Waitan",
+      "address_cn": "Kathleens Waitan",
+      "comments": ["黄浦路200号沙逊仓库4层"],
+      "lng": "121.501344",
+      "name_en": "Kathleens Waitan",
+      "address_en": "No. 200 Huangpu Road, 4 storey warehouse Shaxun",
+      "lat": "31.251273"
+    },
+    {
+      "name_cn": "上海小南国(会展中心店)",
+      "address_cn": "浦东新区花木路1378号浦东嘉里城2楼L225号铺",
+      "comments": ["Enjoyed a variety of delicious dumplings and dim sum with large group. Great atmosphere and comfortable seating. Wait staff very attentive and accommodating. Definitely worth the wait. We were lucky though and only waiting 5 minutes."],
+      "lng": "121.569405",
+      "name_en": "Xiao NanGuo",
+      "address_en": "Xiao NanGuo",
+      "lat": "31.218822"
+    },
+    {
+      "name_cn": "Danieli's Italian Restaurant",
+      "address_cn": "东方路889号",
+      "comments": ["This hotel is absolutely beautiful and I believe a real value. It just isn't really very convenient to anything. To get to the nicer places in Pudong or to the Bund area you should expect a 15 minute to 30 minute taxi ride."],
+      "lng": "121.534846",
+      "name_en": "Danieli's Italian Restaurant",
+      "address_en": "DongFang Road 889",
+      "lat": "31.229673"
+    },
+    {
+      "name_cn": "巴国布衣",
+      "address_cn": "东方路738号裕安大厦3层",
+      "comments": ["All dishes are not so spicy. We can enjoy Sichuan style. Vegetable, chicken, pork, bean guard... every food is OK. The staff is very kind. It is only bad point that our booking was canceled when we arrived 3 minutes delayed. Usually, it is waited for 15 minutes."],
+      "lng": "121.531623",
+      "name_en": "BaGuo BuYi (PuDong)",
+      "address_en": "No.738 Dongfang Road",
+      "lat": "31.234632"
+    },
+    {
+      "name_cn": "全聚德",
+      "address_cn": "上海浦东新区东方路778号紫金山大酒店3楼",
+      "comments": ["We had lunch at the restaurant on Huaihai Road and it was marvellous. None of the staff spoke English but after pointing and gesturing we were able to order our meal and drinks. The total cost was very reasonable, approx AUD$50. We were delighted at the way the chef carved the duck at our table."],
+      "lng": "121.530102",
+      "name_en": "Quanjude Roast Duck?",
+      "address_en": "DongFang Road 778, ZiJinShan Hotel",
+      "lat": "31.23364"
+    },
+    {
+      "name_cn": "Kebabs On The Grille",
+      "address_cn": "嘉善路113号对面(近永康路)",
+      "comments": ["We visited this restaurant following a recommendation in the China Lonely Planet guide. Although a little more expensive than your local eateries, we really fancied Indian food and it was well worth it."],
+      "lng": "121.46565",
+      "name_en": "Kebabs On The Grille",
+      "address_en": "ZhongShanNanLu 505 Nong Lao MaTou 8Hao Lou",
+      "lat": "31.216948"
+    },
+    {
+      "name_cn": "Ultraviolet by Paul Pairet",
+      "address_cn": "黄浦区中山东一路18号",
+      "comments": ["The food was great, service nice, but boy these guys are having a laugh at customers on the price. Good food and good service does not need to be overpriced. There are just as good in Shanghai with better atmosphere for half the cost."],
+      "lng": "121.496366",
+      "name_en": "Ultraviolet by Paul Pairet",
+      "address_en": "No.18 Zhongshan East 1st Road",
+      "lat": "31.244171"
+    },
+    {
+      "name_cn": "鼎泰豐",
+      "address_cn": "浦东新区世纪大道100号环球金融中心3楼(近东泰路)",
+      "comments": ["Enjoyed a variety of delicious dumplings and dim sum with large group. Great atmosphere and comfortable seating. Wait staff very attentive and accommodating. Definitely worth the wait. We were lucky though and only waiting 5 minutes."],
+      "lng": "121.51428",
+      "name_en": "Din Tai Fung",
+      "address_en": "3/F 168 Lujiazui West Road",
+      "lat": "31.240622"
+    },
+    {
+      "name_cn": "Daisy's kitchen",
+      "address_cn": "亚太盛汇位于浦东浦东新区世纪大道2002号",
+      "comments": ["we ordered veg lover pizza and veg sandwitch their best food and good standard. total bill for 2 person was 72 rmb"],
+      "lng": "121.550035",
+      "name_en": "Daisy's kitchen",
+      "address_en": "ShiJi Avenue 2002",
+      "lat": "31.224522"
+    },
+    {
+      "name_cn": "老上海茶馆",
+      "address_cn": "盛大22-23楼中间道路",
+      "comments": ["I always go here when I have guests and they all love it. It is mostly for tourists but it is really nicely decorated, like you are back in the twenties in Shanghai.?"],
+      "lng": "121.49685",
+      "name_en": "LaoShangHai ChaGuan",
+      "address_en": "No.385 Fangbing Middle Road",
+      "lat": "31.23075"
+    },
+    {
+      "name_cn": "Wagas",
+      "address_cn": "上海市卢湾区淮海中路381号",
+      "comments": ["After being in Shanghai three months, and always passing busy Wagas establishments, I finally went for lunch. It's very good! I loved the menu options, everything seemed fresh."],
+      "lng": "121.479821",
+      "name_en": "Wagas",
+      "address_en": "Zhonghuan Plaza, No.381 Huaihai Middle Road",
+      "lat": "31.227992"
+    }
+  ],
+  "hotel":[
+    {
+      "name_en": "Shanghai Jinmao Junyue Hotel",
+      "name_cn": "上海金茂君悦大酒店",
+      "address_en": "No.88 Century Ave",
+      "address_cn": "世纪大道88号",
+      "lat": "31.2353438",
+      "lng": "121.503591",
+      "comments": ["Five Star", "Sightseeing Huangpu River"]
+    },
+    {
+      "name_en": "Holiday Inn",
+      "name_cn": "假日酒店",
+      "address_en": "No.899 Dongfang Road",
+      "address_cn": "东方路899号",
+      "lat": "31.222217",
+      "lng": "121.5267363",
+      "comments": ["Four Star", "economical & cozy"]
+    }
+  ],
+  "bar":[
+    {
+      "name_en": "2929 Bar",
+      "name_cn": "2929酒吧",
+      "address_en": "Zhongshan East 1st Rd",
+      "address_cn": "中山东一路外滩441-447",
+      "lat": "31.241645",
+      "lng": "121.491208"
+    },
+    {
+      "name_cn": "斑马酒吧",
+      "address_cn": "新码头街",
+      "comments": ["Love that place. nice atmosphere. the people are mainly chinese but the staff speaks good english. price are not so cheap but quality is good. go for a fun night"],
+      "lng": "121.5036703",
+      "name_en": "Zebra Bar",
+      "address_en": "Zhonghuan Plaza, No.381 Huaihai Middle Road",
+      "lat": "31.2187626"
+    },
+    {
+      "name_cn": "Dr Beer",
+      "address_cn": "中国上海市静安区富民路",
+      "comments": ["I'd go back for the ambience, live band, and service. Great place to hangout/ chill. Able to accommodate large groups. Music's perfect."],
+      "lng": "121.4482654",
+      "name_en": "Dr Beer",
+      "address_en": "83 Fumin Lu, Shanghai, China",
+      "lat": "31.2207328"
+    }
+  ],
+  "mall":[
+    {
+      "name_en": "Hong Kong Square Shopping Center",
+      "name_cn": "香港广场",
+      "address_en": "283 Huaihai Middle Rd",
+      "address_cn": "淮海中路283号",
+      "lat": "31.223066",
+      "lng": "121.474978"
+    },
+    {
+      "name_en": "Super Brand Mall",
+      "name_cn": "正大广场",
+      "address_en": "No.168, Lujiazui West Road, Pudong District, Shanghai",
+      "address_cn": "上海市浦东新区, 陆家嘴西路168号",
+      "lat": "31.236704",
+      "lng": "121.4969515",
+      "comments": ["Large mall with a mix of mid and upper mid tier brands. Numerous restaurants to choose from. Has a cinema at the top level of the shopping mall."]
+    },
+    {
+      "name_en": "K11 Art Mall",
+      "name_cn": "K11艺术购物中心",
+      "address_en": "No.300, Huaihai Middle Road, Huangpu District, Shanghai",
+      "address_cn": "上海市黄浦区，淮海中路300号",
+      "lat": "31.2233187",
+      "lng": "121.4714796",
+      "comments": ["very good place"]
+    },
+    {
+      "name_en": "Nanjing Shopping Road",
+      "name_cn": "南京路",
+      "address_en": "Nanjing Road, Huangpu District, Shanghai",
+      "address_cn": "上海市黄浦区，南京路步行街",
+      "lat": "31.2347256",
+      "lng": "121.472704",
+      "comments": ["Road full with shopping centers, restaurants. Just beware of scamers."]
+    },
+    {
+      "name_en": "百脑汇",
+      "name_cn": "百脑汇",
+      "address_en": "No.588, Zhangyang Road, Pudong District, Shanghai",
+      "address_cn": "上海市浦东新区八佰伴，张杨路588号",
+      "lat": "31.2297146",
+      "lng": "121.4585978 ",
+      "comments": ["very big electronics market"]
+    },
+    {
+      "name_en": "Tianzifang Market",
+      "name_cn": "田子坊",
+      "address_en": "Nong 210, Taikang Road, Huangpu District, Shanghai",
+      "address_cn": "上海市黄浦区，泰康路210弄",
+      "lat": "31.2087383",
+      "lng": "121.4667293",
+      "comments": ["Small alleys full of tiny shops, bars and restaurants. Nice area to spend an evening (probably just as fine in daytime)."]
+    },
+    {
+      "name_en": "Xinyang Market",
+      "name_cn": "亚太新阳服饰礼品市场",
+      "address_en": "上海市浦东新区，世纪大道2002号, 上海科技馆",
+      "address_cn": "Shanghai Science and Technology Museum, No.2002 Century Ave, Pudong District, Shanghai",
+      "lat": "31.2172526",
+      "lng": "121.5432674",
+      "comments": ["keep calm, be patient... And bargain, bargain, bargain and bargain. You have to divide the initial price at least by 5, probably by 10"]
+    },
+    {
+      "name_en": "New Yaohan Mall",
+      "name_cn": "八佰伴",
+      "address_en": "上海市浦东新区，张杨路501号",
+      "address_cn": "No.501, Zhangyang Road, Pudong District, Shanghai",
+      "lat": "31.2287656",
+      "lng": "121.5143789",
+      "comments": ["Lots of imported food products, very over priced though. Better to go to Lian Hua or CarreFour"]
+    }
+  ],
+  "airport":[
+    {
+      "name_en": "Pudong International Airport",
+      "name_cn": "浦东国际机场",
+      "address_en": "No.1 Weiyi Road",
+      "address_cn": "纬一路100号",
+      "lat": "31.1443439",
+      "lng": "121.8060843",
+      "comments": ["international flights"]
+    },
+    {
+      "name_en": "Shanghai Hongqiao Airport",
+      "name_cn": "上海虹桥机场",
+      "address_en": "No.2550 Hongqiao Road",
+      "address_cn": "虹桥路2550号",
+      "lat": "31.191767",
+      "lng": "121.336954",
+      "comments": ["domestic flights"]
+    }
+  ],
+  "place":[
+    {
+      "name_en": "Tianzifang",
+      "name_cn": "田子坊",
+      "address_en": "No.210, Taikang Rd.",
+      "address_cn": "泰康路210弄",
+      "lat": "31.208681",
+      "lng": "121.468950"
+    },
+    {
+      "name_en": "The Bund",
+      "name_cn": "外滩",
+      "address_en": "Zhongshan East 1st Rd, WaiTan, Huangpu Qu, Shanghai",
+      "address_cn": "上海市 黄浦区 中山东一路 外滩",
+      "lat": "31.2402657",
+      "lng": "121.4883883",
+      "comments": ["West Coast of Huangpu River"]
+    },
+    {
+      "name_en": "Shanghai Disneyland",
+      "name_cn": "迪士尼乐园",
+      "address_en": "Disneyland, Pudong, Shanghai ",
+      "address_cn": "川沙新镇西环路",
+      "lat": "31.1443618",
+      "lng": "121.6456095",
+      "comments": ["Long queues","Far away from the Company"]
+    },
+    {
+      "name_en": "New world&Tianzifang",
+      "name_cn": "新天地&田子坊",
+      "address_en": " 95 Zizhong Rd, Huangpu, Shanghai",
+      "address_cn": "黄浦区自忠路95号",
+      "lat": " 31.2197656",
+      "lng": "121.4773576",
+      "comments": ["Many Bars"]
+    },
+    {
+      "name_en": "Oriental Pearl TV Tower",
+      "name_cn": "东方明珠",
+      "address_en": "1 Century Ave, Pudong, Shanghai",
+      "address_cn": "浦东世纪大道1号",
+      "lat": "31.2406903",
+      "lng": "121.502207",
+      "comments": ["Binjiang Ave around is good"," Need to get up to the Tower in a good weather to get a better view"]
+    },
+    {
+      "name_en": "Yu Gardon& Shanghai Temple of the Town God",
+      "name_cn": "豫园&城隍庙",
+      "address_en": "Around 157 Anren St",
+      "address_cn": "安仁路157弄附近",
+      "lat": " 31.2271112",
+      "lng": "121.4919714",
+      "comments": ["Crowded", " Food around is not very good "]
+    }
+
+  ]
+}
